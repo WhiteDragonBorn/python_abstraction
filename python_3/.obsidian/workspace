@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Основы/3.Выбираем с помощью оператора if.md",
+            "file": "Основы/2.Числа и операции.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основы/3.Выбираем с помощью оператора if.md",
+                "file": "Основы/2.Числа и операции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "daca01b903abb68c",
   "lastOpenFiles": [
-    "Основы/3.Выбираем с помощью оператора if.md",
     "Основы/2.Числа и операции.md",
+    "Основы/3.Выбираем с помощью оператора if.md",
     "Основы/1.Типы и переменные.md",
     "Оглавление.md"
   ]
